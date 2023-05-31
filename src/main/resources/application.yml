@@ -25,7 +25,7 @@ spring:
     password: foobared
     database: 0
 server:
-  port: 8080
+  port: 8081
   servlet:
     context-path: /api
     session:
