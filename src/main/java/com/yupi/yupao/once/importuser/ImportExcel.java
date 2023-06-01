@@ -14,7 +14,7 @@ public class ImportExcel {
      */
     public static void main(String[] args) {
         // todo 记得改为自己的测试文件
-        String fileName = "E:\\星球项目\\yupao-backend\\src\\main\\resources\\testExcel.xlsx";
+        String fileName = "D:\\Code_yupi\\yupao-backend-public\\src\\main\\resources\\testExcel.xlsx";
 //        readByListener(fileName);
         synchronousRead(fileName);
     }
