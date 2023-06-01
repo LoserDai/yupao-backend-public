@@ -41,7 +41,7 @@ public class SwaggerConfig {
                 .title("用户中心")
                 .description("用户中心接口文档")
                 .termsOfServiceUrl("https://github.com/LoserDai")
-                .contact(new Contact("yupi","https://github.com/LoserDai","xxx@qq.com"))
+                .contact(new Contact("LoserDai","https://github.com/LoserDai","xxx@qq.com"))
                 .version("1.0")
                 .build();
     }
